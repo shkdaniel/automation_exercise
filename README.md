@@ -11,7 +11,7 @@ The project has been built and tested using the following resources:
 * Chrome 110.0.5481.100 (Official Build) (arm64)
 * Cypress 12.5.1
 
-# Automated steps
+## Automated steps
 
 * Starting at [sales.crowdstreet.com](https://sales.crowdstreet.com/), click the ‘Create an Account’ button in the top-right of the application
 * Fill out the form and successfully create an account
