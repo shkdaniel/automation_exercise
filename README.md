@@ -2,8 +2,6 @@
 
 The exercise is utilizing Cypress framework and automating account steps for [sales.crowdstreet.com](https://sales.crowdstreet.com/) web site.
 
-The UI tests are designed to run on multiple browsers, the default browsers being Chrome and Firefox.
-
 The project has been built and tested using the following resources:
 
 * macOS Venture 13.0.1
