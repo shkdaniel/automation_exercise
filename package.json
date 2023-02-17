@@ -1,0 +1,23 @@
+{
+  "name": "automation_exercise",
+  "version": "1.0.0",
+  "description": "Crowdstreet assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shkdaniel/automation_exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shkdaniel/automation_exercise/issues"
+  },
+  "homepage": "https://github.com/shkdaniel/automation_exercise#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
