@@ -79,4 +79,4 @@ npx cypress run --browser=chrome --headless
 
 <img src="cypress/docs/runner.png">
 
-<img src="cypress/docs/">
+<img src="cypress/docs/code.png">
